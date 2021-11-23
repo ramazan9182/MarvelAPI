@@ -10,11 +10,10 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface Comics : NSObject
-
-@property(nonatomic, strong) NSNumber *commicsId;
-@property(nonatomic, strong) NSString *commicsDescription;
-@property(nonatomic, strong) NSString *commicsThumbnailUrl;
-@property(nonatomic, strong) NSString *commicsTitle;
+@property(nonatomic, strong) NSNumber *comicsId;
+@property(nonatomic, strong) NSString *comicsDescription;
+@property(nonatomic, strong) NSString *comicsThumbnailUrl;
+@property(nonatomic, strong) NSString *comicsTitle;
 
 @end
 

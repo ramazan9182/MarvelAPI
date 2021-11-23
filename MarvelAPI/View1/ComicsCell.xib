@@ -23,8 +23,8 @@
                         </constraints>
                     </imageView>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="8" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H31-PG-kzc">
-                        <rect key="frame" x="128" y="33" width="248" height="99"/>
-                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <rect key="frame" x="128" y="33" width="244" height="99"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
                     </label>
@@ -39,7 +39,7 @@
                     </label>
                 </subviews>
                 <constraints>
-                    <constraint firstAttribute="trailing" secondItem="H31-PG-kzc" secondAttribute="trailing" id="8fb-vK-fuO"/>
+                    <constraint firstAttribute="trailing" secondItem="H31-PG-kzc" secondAttribute="trailing" constant="4" id="8fb-vK-fuO"/>
                     <constraint firstItem="H31-PG-kzc" firstAttribute="leading" secondItem="njP-VW-D06" secondAttribute="trailing" constant="4" id="Bmf-NU-xVn"/>
                     <constraint firstItem="rEf-G6-okP" firstAttribute="leading" secondItem="njP-VW-D06" secondAttribute="trailing" constant="4" id="Cjv-s8-jji"/>
                     <constraint firstItem="njP-VW-D06" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="4" id="Kfx-J2-wWT"/>

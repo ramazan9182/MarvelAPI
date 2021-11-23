@@ -20,6 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (strong, nonatomic) IBOutlet UITableView *tableview;
 @property NSMutableArray *comicsArray;
 @property Character *character;
+
 @end
 
 NS_ASSUME_NONNULL_END

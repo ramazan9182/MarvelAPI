@@ -16,7 +16,6 @@
 
 
 @interface Home : UIViewController <UITableViewDataSource, UITableViewDelegate>
-
 @property (strong, nonatomic) IBOutlet UITableView *tableview;
 @property NSString *apiKey;
 @property NSString *timeStamp;

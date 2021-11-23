@@ -10,8 +10,6 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface CharacterCell : UITableViewCell
-//@property (strong, nonatomic) IBOutlet UIImageView *imgCharacter;
-//@property (strong, nonatomic) IBOutlet UILabel *lblCharacter;
 @property (strong, nonatomic) IBOutlet UIImageView *imgCharacter;
 @property (strong, nonatomic) IBOutlet UILabel *lblCharacter;
 
